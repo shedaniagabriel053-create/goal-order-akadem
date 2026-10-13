@@ -1,0 +1,1 @@
+print("hi my name is gabo. mi age is 9. im live in saragishvilis N19")

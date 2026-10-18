@@ -1,0 +1,1 @@
+print("me var gabo "+"da vswavlob GOAsi")

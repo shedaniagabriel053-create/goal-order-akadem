@@ -1,0 +1,1 @@
+print("da da zma myavs"+"zma 21 wlisa"+"da 11"+"me 19. esa cemi ficri")

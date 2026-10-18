@@ -1,0 +1,1 @@
+print("goaeli arasdros nebdeba, goaeli sul წin midis.")

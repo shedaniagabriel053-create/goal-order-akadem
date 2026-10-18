@@ -1,0 +1,1 @@
+print("luka"+"nika "+"megobari")

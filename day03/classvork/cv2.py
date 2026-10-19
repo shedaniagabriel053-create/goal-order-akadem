@@ -1,0 +1,1 @@
+print("salami, me var "+"gabriel sedania")

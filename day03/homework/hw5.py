@@ -1,1 +1,1 @@
-print("nika"+"keshelava","is","luka"+"gabelia "+"friend.")
+print("nika"+"keshelava "+"is "+"luka"+"gabelias "+"friend.")

@@ -24,7 +24,7 @@ left(90)
 forward(70)
 color("yellow")
 left(90)
-forward(120)          #height of the door
+forward(120)          #height of the door #door is gray
 right(90)
 forward(60)
 right(90)
@@ -40,8 +40,8 @@ right(150)
 forward(200)
 left(120)
 forward(200)
+
+
+
 end_fill()
-
-
-
 exitonclick()

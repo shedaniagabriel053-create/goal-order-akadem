@@ -1,1 +1,3 @@
-print("salami, me var "+"gabriel sedania")
+NameError
+SyntaxError
+TypeError

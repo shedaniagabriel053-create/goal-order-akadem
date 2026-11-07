@@ -22,7 +22,7 @@ left(90)
 #drawing a door
 
 forward(70)
-color("yellow")
+color("orange")
 left(90)
 forward(120)          #height of the door #door is gray
 right(90)
@@ -34,14 +34,20 @@ penup()
 goto(200, 200)
 pendown()
 
-color("red")
+color("blue")
 begin_fill()
 right(150)
 forward(200)
 left(120)
 forward(200)
 
+forward(5)
+right()
+forward(10)
+pencolor("purple")
+right()
+forward(11)
 
 
-end_fill()
-exitonclick()
+
+
